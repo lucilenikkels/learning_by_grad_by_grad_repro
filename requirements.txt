@@ -1,0 +1,12 @@
+matplotlib
+numpy
+scipy
+torch
+torchvision
+tqdm
+joblib
+pandas
+seaborn
+notebook
+jupyter
+ipywidgets
