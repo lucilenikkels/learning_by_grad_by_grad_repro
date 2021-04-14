@@ -14,7 +14,7 @@ To install this project run the following commands in your terminal:
 
 ```bash
 git clone https://github.com/lucilenikkels/learning_by_grad_by_grad_repro.git
-cd learning-to-learn-by-gradient-descent-by-gradient-descent
+cd learning_by_grad_by_grad_repro
 pip install -r requirements
 ```
 Make sure to install latest versions of jupyter and notebook to make sure all images and status bars show.
