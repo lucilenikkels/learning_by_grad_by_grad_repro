@@ -1,7 +1,7 @@
 # Reproduction of Learning to learn by gradient descent by gradient descent 
 
 This optimizer is a reproduction of the paper [learning to learn by gradient descent by gradient descent](https://arxiv.org/pdf/1606.04474.pdf).
-The optimizer uses Pytorch and is tested on quadratic functions and MNIST to compare the results from the paper to this code.
+The optimizer uses Pytorch and is tested on quadratic functions and MNIST to compare the results from the paper to this code. We replicated the work from AdrienLE (https://github.com/AdrienLE/learning_by_grad_by_grad_repro) and made some improvements.
 
 ## Before you start
 * Make sure your device has a GPU that supports CUDA.
@@ -13,7 +13,7 @@ The optimizer uses Pytorch and is tested on quadratic functions and MNIST to com
 To install this project run the following commands in your terminal: 
 
 ```bash
-git clone PAST LINK HERE
+git clone https://github.com/lucilenikkels/learning_by_grad_by_grad_repro.git
 cd learning-to-learn-by-gradient-descent-by-gradient-descent
 pip install -r requirements
 ```
