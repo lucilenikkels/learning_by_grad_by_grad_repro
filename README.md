@@ -13,7 +13,7 @@ The optimizer uses Pytorch and is tested on quadratic functions and MNIST to com
 To install this project run the following commands in your terminal: 
 
 ```bash
-git clone PAST LINK HERE
+git clone https://github.com/lucilenikkels/learning_by_grad_by_grad_repro.git
 cd learning-to-learn-by-gradient-descent-by-gradient-descent
 pip install -r requirements
 ```
